@@ -10,8 +10,8 @@ function firstNonRepeatedChar(str) {
         }
     }
 
-    return null;
+    return null; s    
 }
-const input = prompt("Enter a string");
+var input = prompt("Enter a string"); 
 alert(firstNonRepeatedChar(input)); 
 
